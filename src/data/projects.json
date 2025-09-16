@@ -1,0 +1,23 @@
+[
+  {
+    "title": "EdgeUp Platform",
+    "event": "Final Project SISTECH by RISTEK Fasilkom UI 2025",
+    "description": "A web-based career prediction platform developed with Next.js, React, and Tailwind CSS. Features include JSON-based recommendations and interactive career insights.",
+    "image": "/images/EdgeUp.png",
+    "link": "https://edgeup-platform-app.vercel.app/"
+  },
+  {
+    "title": "Think & Whack Game",
+    "event": "Hands-On Task SISTECH by RISTEK Fasilkom UI 2025",
+    "description": "An interactive web game built to test reaction speed and focus, using HTML, CSS, Javascript and engaging gameplay.",
+    "image": "/images/Thin&Whack.png",
+    "link": "https://think-and-whack-6tv78o6g3-nindys-projects-a932a434.vercel.app/"
+  },
+  {
+    "title": "Quran App",
+    "event": "Workshop React JS Al-Qur'an by Dunia Coding Academy 2025",
+    "description": "A React-based application for reading and navigating the Al-Qur'an, with a user-friendly interface and responsive design.",
+    "image": "/images/QuranApp.png",
+    "link": "https://quran-web-tau.vercel.app/"
+  }
+]

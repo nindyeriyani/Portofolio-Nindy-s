@@ -1,0 +1,50 @@
+[
+  {
+    "date": "JUNE 2024 – PRESENT",
+    "title": "Professional Course • Fullstack Web Developer Codepolitan",
+    "description": "Joining the Fullstack Web Developer Course at CodePolitan, I learned web development with a focus on HTML, CSS, JavaScript, React fundamentals, Tailwind CSS, AJAX, and Web APIs.",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "React",
+      "Tailwind CSS",
+      "AJAX",
+      "Web API",
+      "Git",
+      "GitHub",
+      "Node.js"
+    ]
+  },
+  {
+    "date": "JULY – AUGUST 2025",
+    "title": "Front-End Engineering Path Mentee • SISTECH by RISTEK Fasilkom UI 2025",
+    "description": "Developed EdgeUp, a web-based career prediction platform, using Next.js, React, and Tailwind CSS, deployed on Vercel. Collaborated with a team to implement recommendation features based on JSON data and applied Git/GitHub for version control and project management.",
+    "tags": ["Next.js", "React.js", "Tailwind CSS", "Web Development", "Front-End Development" ,"Teamwork", "Communication", "Problem Solving"]
+  },
+  {
+    "date": "FEBRUARY – JUNE 2025",
+    "title": "Internship •  MBKM Magang Mandiri PT. Digital Desa (DIGIDES) Makassar, Indonesia",
+    "description": "I contributed to multiple web projects, including testing the DIGIDES guest book, building a DigitalDesa GA4 Dashboard, and developing a context-aware ChatBot. These experiences enhanced my skills in front-end development, data visualization, and interactive web solutions.",
+    "tags": ["Large Language Models (LLM)", "Next.js", "React.js", "Teamwork", "Team Management", "Time Management"]
+  },
+  {
+    "date": "DECEMBER 2024 – FEBRUARY 2025",
+    "title": "Internship • Marketing Communication Division IndigoHub Makassar",
+    "description": "Built and maintained relationships with the pentahelix ecosystem to support strategic collaborations. Managed ODR Startup to assist in the growth of local startups.",
+    "tags": ["Marketing Communication", "Event Management", "Networking", "Communication", "Teamwork"]
+  },
+
+  {
+    "date": "SEPTEMBER – DECEMBER 2024",
+    "title": "Teaching Assistant • MBKM Kampus Mengajar Batch 8 SD Inpres Kajenjeng",
+    "description": "Helps to improve students' literacy, numeracy and technology adaptation skills. Collaborate with teachers to develop creative learning materials.",
+    "tags": [
+      "Teaching",
+      "Leadership",
+      "Teamwork",
+      "Problem Solving",
+      "Communication"
+    ]
+  }
+]

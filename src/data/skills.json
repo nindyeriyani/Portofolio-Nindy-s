@@ -1,0 +1,6 @@
+{
+  "Languages": ["HTML5", "CSS3", "Javascript", "Typescript" , "NodeJs", "C++", "C#", "Python"],
+  "Frameworks/Libraries": ["React", "Tailwind CSS", "Next.js"],
+  "Version Control": ["Git"],
+  "Development Tools": ["VS Code", "Unity"]
+}
